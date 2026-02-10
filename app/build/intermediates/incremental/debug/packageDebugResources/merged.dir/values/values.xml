@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_button_text">ADD CITY</string>
+    <string name="app_name">ListyCity</string>
+    <string name="city_name_text">City Name</string>
+    <string name="confirm_button_text">CONFIRM</string>
+    <string name="enter_city_text">Enter a city:</string>
+    <string name="province_or_state_code_text">Province/State Code</string>
+    <string name="remove_button_text">REMOVE CITY</string>
+    <string name="sample_text">sample_text</string>
+    <style name="Base.Theme.ListyCity" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ListyCity" parent="Base.Theme.ListyCity"/>
+</resources>
